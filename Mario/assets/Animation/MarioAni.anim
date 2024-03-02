@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "MarioAni",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 4,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0fbd0f8c-2551-494d-ac81-8edad6debf66"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "acb3f992-c32b-468f-a514-55ffa92f614a"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "7c010a89-0bdb-4b72-a334-1095dca6f993"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "acb3f992-c32b-468f-a514-55ffa92f614a"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "0fbd0f8c-2551-494d-ac81-8edad6debf66"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
